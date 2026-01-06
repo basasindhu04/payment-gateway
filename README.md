@@ -147,6 +147,31 @@ http://localhost:3001/checkout?order_id=ORDER_ID
 
 ## Step 3 – Make Payment
 
+Dashboard Login
+
+Open the dashboard:
+
+http://localhost:3000
+
+Login using:
+
+Email: test@example.com
+Password: any value (example:123456).
+
+Note: Password is not validated for Deliverable 1.
+
+After login you will see:
+
+API Key and API Secret
+
+Total Transactions
+
+Total Amount
+
+Success Rate
+
+Click View Transactions to see all processed payments.
+
 **UPI Example**
 
 ```
