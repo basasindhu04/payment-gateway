@@ -15,6 +15,16 @@ This project is a complete implementation of a mini payment gateway similar to R
 
 ---
 
+## Tech Stack
+
+Backend: Node.js + Express
+Frontend: React
+Database: PostgreSQL
+ORM: Prisma / TypeORM
+Auth: API Key & Secret
+Infra: Docker + Docker Compose
+
+
 ## Prerequisites
 
 * Docker
